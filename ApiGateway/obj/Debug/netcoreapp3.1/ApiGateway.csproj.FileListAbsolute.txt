@@ -23,10 +23,14 @@ D:\ApiOcelot_19-09-2020\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.
 D:\ApiOcelot_19-09-2020\ApiGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\ApiOcelot_19-09-2020\ApiGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 D:\ApiOcelot_19-09-2020\ApiGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
-D:\ApiOcelot_19-09-2020\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CoreCompileInputs.cache
-D:\ApiOcelot_19-09-2020\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
-D:\ApiOcelot_19-09-2020\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
 D:\ApiOcelot_19-09-2020\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CopyComplete
 D:\ApiOcelot_19-09-2020\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.dll
 D:\ApiOcelot_19-09-2020\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.pdb
 D:\ApiOcelot_19-09-2020\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.genruntimeconfig.cache
+D:\ApiOcelot_19-09-2020\ApiGateway\bin\Debug\netcoreapp3.1\nLog.config
+D:\ApiOcelot_19-09-2020\ApiGateway\bin\Debug\netcoreapp3.1\NLog.dll
+D:\ApiOcelot_19-09-2020\ApiGateway\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\ApiOcelot_19-09-2020\ApiGateway\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\ApiOcelot_19-09-2020\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CoreCompileInputs.cache
+D:\ApiOcelot_19-09-2020\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\ApiOcelot_19-09-2020\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
